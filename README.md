@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- saved from url=(0036)https://taba3ni.github.io/index.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--<base href="https://taba3ni.github.io/index.html">--><base href=".">
     
