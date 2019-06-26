@@ -10,7 +10,7 @@
     <title>Ktn_water</title>
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" sizes="56x56" href="https://taba3ni.github.io/images/icon.png">
+    <link rel="icon" type="image/png" sizes="200x200" href="https://taba3ni.github.io/images/icon.png">
 
 
     <!-- Main style sheet -->
